@@ -1,0 +1,22 @@
+{
+  "token": "TOKEN",
+  "prefix": ".",
+  "roles": {
+    "mute": "MUTE-ROL-ID",
+    "jail": "JAIL-ROL-ID",
+    "reklam": "REKLAM-ROL-ID",
+    "yt1": "YETKİLİ-1-ID",
+    "yt2": "YETKİLİ-2-ID"
+  },
+  "channels": {
+    "banLog": "BAN-LOG-ID",
+    "muteLog": "MUTE-LOG-ID",
+    "jailLog": "JAIL-LOG-ID",
+    "reklamLog": "REKLAM-LOG-ID",
+    "messageLog": "MESAJ-LOG-ID",
+    "channelLog": "KANAL-LOG-ID",
+    "roleLog": "ROL-LOG-ID",
+    "kickLog": "KİCK-LOG-ID",
+    "sunucuTag": "SUNUCUNUZUN-TAGI"
+  }
+}
